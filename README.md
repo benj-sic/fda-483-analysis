@@ -38,8 +38,8 @@ This project is an end-to-end data analysis pipeline that processes, classifies,
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/benj-sic/fda-483-analysis
+    cd fda-483-analysis
     ```
 
 2.  **Create a virtual environment:**
