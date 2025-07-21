@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Results - should be generated, not stored
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+
+# Logs
+*.log
+
+# Documents
+*.docx
+*.pdf
